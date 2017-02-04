@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AsoRetry2016No2</string>
+    <string name="google">Google</string>
+    <string name="mail_button">メール</string>
+    <string name="subject">テキスト入力</string>
+    <string name="button">Mail</string>
+    <string name="mail_to">harunobu.1224@docomo.ne.jp</string>
+</resources>
